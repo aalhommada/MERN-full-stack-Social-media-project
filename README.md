@@ -1,12 +1,12 @@
 ### MERN-full-stack-Social-media-project : is a small social network app that includes authentication, profiles and forum posts.
 
- Link to the final project:    https://aalhommada.herokuapp.com/
+ Link to the final project:  [MERN full stack Social media page](https://aalhommada.herokuapp.com/)  
 
 
 
 ```
-* Install server dependencies
-npm install
+*.Install server dependencies
+   `npm install`
 
 * Install client dependencies
 cd client
